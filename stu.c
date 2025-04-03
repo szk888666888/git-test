@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_STUDENTS 100
+#define MAX_STUDENTS 188
 #define NAME_LENGTH 50
 
 // 定义学生结构体
